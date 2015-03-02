@@ -13,10 +13,6 @@ resfile  <- args[4]                  # will create if not exists
 
 if (!file.exists(datafile)) stop("No file!")
 
-# If cinline is installed, then we'll use basic replacements for file(), readLines()
-# and close() to eliminiate a little time to run the benchmark.
-source('fileio.R')
-
 # For calculating memory cache misses
 library(pbdPAPI)
 
@@ -70,7 +66,9 @@ searchHash <- function(filename){
   invisible(sum);
 }
 
+# Use this to see how many gc occurred
 # gcinfo(TRUE)
+
 invisible(gc(reset=TRUE)) # Reset is important here to estimate
                           # the hash memory size on next gc().
 
