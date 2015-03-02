@@ -14,7 +14,7 @@ resfile  <- args[4]                  # will create if not exists
 if (!file.exists(datafile)) stop("No file!")
 
 # For calculating memory cache misses
-library(pbdPAPI)
+#library(pbdPAPI)
 
 set.seed(1)
 
@@ -86,9 +86,10 @@ runsum <- runsum + (t2 - t1)
 
 if (miss > 0) warning("WARNING!!!",miss,"missed variable lookups occurred!")
 
+cachemiss <- 0
 # Cache misses
-w <- system.cache(try(get('the',envir=e),silent=TRUE),gcFirst=TRUE,burnin=FALSE)
-cachemiss <- sum(unlist(w))
+#w <- system.cache(try(get('the',envir=e),silent=TRUE),gcFirst=TRUE,burnin=FALSE)
+#cachemiss <- sum(unlist(w))
 
 results <- data.frame(
   progname=progname,
