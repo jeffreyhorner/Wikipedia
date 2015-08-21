@@ -1,0 +1,275 @@
+C	SKEW.1mil	1000000	0.086906	0.019009
+python	SKEW.1mil	1000000	0.195148	0.127997
+
+C	SKEW.2mil	2000000	0.140355	0.037991
+python	SKEW.2mil	2000000	0.401845	0.264243
+
+C	SKEW.3mil	3000000	0.202880	0.057161
+python	SKEW.3mil	3000000	0.606723	0.403312
+
+C	SKEW.4mil	4000000	0.258332	0.076907
+python	SKEW.4mil	4000000	0.803403	0.528478
+
+C	SKEW.5mil	5000000	0.312614	0.095242
+python	SKEW.5mil	5000000	1.000081	0.678111
+
+C	SKEW.6mil	6000000	0.374439	0.114375
+python	SKEW.6mil	6000000	1.261149	0.875290
+
+C	SKEW.7mil	7000000	0.433054	0.133748
+python	SKEW.7mil	7000000	1.495081	0.985784
+
+C	SKEW.8mil	8000000	0.516531	0.153338
+python	SKEW.8mil	8000000	1.705137	1.113330
+
+C	DISTINCT.1mil	1000000	0.278145	0.018960
+python	DISTINCT.1mil	1000000	0.333987	0.230542
+
+C	DISTINCT.2mil	2000000	0.746136	0.038024
+python	DISTINCT.2mil	2000000	0.679666	0.464507
+
+C	DISTINCT.3mil	3000000	1.348882	0.057391
+python	DISTINCT.3mil	3000000	1.129906	0.690564
+
+C	DISTINCT.4mil	4000000	2.093276	0.076656
+python	DISTINCT.4mil	4000000	1.403503	0.962324
+
+C	DISTINCT.5mil	5000000	2.921057	0.095682
+python	DISTINCT.5mil	5000000	1.668857	1.208245
+
+C	DISTINCT.6mil	6000000	3.578617	0.118000
+python	DISTINCT.6mil	6000000	2.243050	1.371516
+
+C	DISTINCT.7mil	7000000	4.313143	0.133386
+python	DISTINCT.7mil	7000000	2.526276	1.641939
+
+C	DISTINCT.8mil	8000000	5.230289	0.155411
+python	DISTINCT.8mil	8000000	2.839289	1.948703
+
+C	SKEW.1mil	1000000	0.079514	0.019219
+python	SKEW.1mil	1000000	0.205191	0.139141
+
+C	SKEW.2mil	2000000	0.160547	0.039997
+python	SKEW.2mil	2000000	0.443269	0.289045
+
+C	SKEW.3mil	3000000	0.200078	0.057238
+python	SKEW.3mil	3000000	0.645007	0.483374
+
+C	SKEW.4mil	4000000	0.302160	0.076336
+python	SKEW.4mil	4000000	0.826821	0.550815
+
+C	SKEW.5mil	5000000	0.325452	0.096281
+python	SKEW.5mil	5000000	1.040333	0.692536
+
+C	SKEW.6mil	6000000	0.385123	0.115774
+python	SKEW.6mil	6000000	1.260412	0.905102
+
+C	SKEW.7mil	7000000	0.444518	0.135215
+python	SKEW.7mil	7000000	1.541144	0.975211
+
+C	SKEW.8mil	8000000	0.508026	0.154463
+python	SKEW.8mil	8000000	1.764481	1.202822
+
+C	DISTINCT.1mil	1000000	0.291409	0.019524
+python	DISTINCT.1mil	1000000	0.339596	0.243256
+
+C	DISTINCT.2mil	2000000	0.818316	0.038518
+python	DISTINCT.2mil	2000000	0.686201	0.469251
+
+C	DISTINCT.3mil	3000000	1.393933	0.058373
+python	DISTINCT.3mil	3000000	1.118030	0.685778
+
+C	DISTINCT.4mil	4000000	2.213589	0.076988
+python	DISTINCT.4mil	4000000	1.409930	0.954547
+
+C	DISTINCT.5mil	5000000	2.982146	0.095984
+python	DISTINCT.5mil	5000000	1.712217	1.218325
+
+C	DISTINCT.6mil	6000000	3.738096	0.115295
+python	DISTINCT.6mil	6000000	2.256532	1.401284
+
+C	DISTINCT.7mil	7000000	4.449682	0.135478
+python	DISTINCT.7mil	7000000	2.528858	1.632593
+
+C	DISTINCT.8mil	8000000	5.473520	0.154599
+python	DISTINCT.8mil	8000000	2.887674	1.902091
+
+C	SKEW.1mil	1000000	0.082129	0.019479
+python	SKEW.1mil	1000000	0.201129	0.132264
+
+C	SKEW.2mil	2000000	0.147132	0.038351
+python	SKEW.2mil	2000000	0.406129	0.274629
+
+C	SKEW.3mil	3000000	0.205762	0.056822
+python	SKEW.3mil	3000000	0.629149	0.426421
+
+C	SKEW.4mil	4000000	0.261650	0.076992
+python	SKEW.4mil	4000000	0.833034	0.550488
+
+C	SKEW.5mil	5000000	0.337088	0.098079
+python	SKEW.5mil	5000000	1.047000	0.688238
+
+C	SKEW.6mil	6000000	0.380172	0.116802
+python	SKEW.6mil	6000000	1.274618	0.858628
+
+C	SKEW.7mil	7000000	0.438040	0.133682
+python	SKEW.7mil	7000000	1.484508	0.987918
+
+C	SKEW.8mil	8000000	0.509281	0.154112
+python	SKEW.8mil	8000000	1.706567	1.166080
+
+C	DISTINCT.1mil	1000000	0.281475	0.019122
+python	DISTINCT.1mil	1000000	0.323439	0.226279
+
+C	DISTINCT.2mil	2000000	0.734970	0.038151
+python	DISTINCT.2mil	2000000	0.670911	0.464507
+
+C	DISTINCT.3mil	3000000	1.343749	0.057136
+python	DISTINCT.3mil	3000000	1.100879	0.691265
+
+C	DISTINCT.4mil	4000000	2.163869	0.077074
+python	DISTINCT.4mil	4000000	1.416975	0.956294
+
+C	DISTINCT.5mil	5000000	2.965441	0.096093
+python	DISTINCT.5mil	5000000	1.716413	1.227582
+
+C	DISTINCT.6mil	6000000	3.850676	0.115443
+python	DISTINCT.6mil	6000000	2.236116	1.371682
+
+C	DISTINCT.7mil	7000000	4.423427	0.133861
+python	DISTINCT.7mil	7000000	2.529837	1.635839
+
+C	DISTINCT.8mil	8000000	5.330951	0.153562
+python	DISTINCT.8mil	8000000	2.840950	1.902491
+
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.1mil	1000000	4.724000	4.893000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.2mil	2000000	10.610000	10.612000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.3mil	3000000	17.216000	20.827000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.4mil	4000000	22.974000	22.819000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.5mil	5000000	28.998000	27.167000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.6mil	6000000	35.552000	36.136000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.7mil	7000000	40.683000	39.918000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.8mil	8000000	48.971000	43.390000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.1mil	1000000	8.054000	7.662000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.2mil	2000000	16.013000	13.076000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.3mil	3000000	23.043000	24.437000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.4mil	4000000	35.788000	25.917000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.5mil	5000000	47.491000	33.642000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.6mil	6000000	56.251000	38.428000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.7mil	7000000	65.415000	51.407000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.8mil	8000000	75.812000	84.262000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.1mil	1000000	4.295000	4.487000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.2mil	2000000	10.027000	11.522000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.3mil	3000000	16.963000	19.835000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.4mil	4000000	25.002000	27.323000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.5mil	5000000	29.074000	33.043000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.6mil	6000000	40.303000	46.538000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.7mil	7000000	50.040000	61.675000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.8mil	8000000	51.664000	66.111000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.1mil	1000000	22.191000	21.236000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.2mil	2000000	77.664000	77.914000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.3mil	3000000	166.538000	168.031000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.4mil	4000000	273.208000	287.812000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.5mil	5000000	411.535000	437.032000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.6mil	6000000	587.002000	619.406000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.7mil	7000000	776.601000	843.545000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.8mil	8000000	997.501000	1087.935000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.1mil	1000000	4.825000	4.786000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.2mil	2000000	10.439000	10.304000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.3mil	3000000	16.700000	19.780000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.4mil	4000000	22.617000	22.888000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.5mil	5000000	29.041000	27.167000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.6mil	6000000	36.137000	36.976000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.7mil	7000000	40.500000	39.874000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.8mil	8000000	48.285000	42.463000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.1mil	1000000	8.122000	7.645000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.2mil	2000000	16.151000	13.138000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.3mil	3000000	22.517000	23.975000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.4mil	4000000	35.899000	26.472000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.5mil	5000000	47.797000	34.107000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.6mil	6000000	55.435000	38.022000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.7mil	7000000	65.885000	51.865000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.8mil	8000000	75.155000	83.351000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.1mil	1000000	4.439000	4.537000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.2mil	2000000	9.594000	10.630000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.3mil	3000000	16.739000	19.413000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.4mil	4000000	24.263000	28.903000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.5mil	5000000	29.439000	33.487000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.6mil	6000000	39.947000	46.388000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.7mil	7000000	49.355000	62.094000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.8mil	8000000	52.501000	66.154000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.1mil	1000000	22.071000	21.642000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.2mil	2000000	77.948000	78.557000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.3mil	3000000	163.273000	168.405000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.4mil	4000000	272.836000	287.855000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.5mil	5000000	412.350000	440.205000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.6mil	6000000	591.307000	628.907000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.7mil	7000000	775.458000	840.222000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	DISTINCT.8mil	8000000	993.854000	1086.242000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.1mil	1000000	4.695000	4.682000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.2mil	2000000	10.372000	10.231000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.3mil	3000000	16.790000	19.964000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.4mil	4000000	22.722000	22.731000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.5mil	5000000	29.238000	27.395000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.6mil	6000000	35.849000	36.311000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.7mil	7000000	40.742000	39.838000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	SKEW.8mil	8000000	48.610000	43.396000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.1mil	1000000	8.106000	7.548000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.2mil	2000000	16.371000	13.128000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.3mil	3000000	23.276000	24.550000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.4mil	4000000	35.846000	26.756000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.5mil	5000000	47.062000	34.004000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.6mil	6000000	55.693000	38.163000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.7mil	7000000	65.373000	52.195000
+/home/jeffrey/Projects/R/R-Array-Hash/bin/Rscript	DISTINCT.8mil	8000000	74.449000	82.463000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.1mil	1000000	4.312000	4.461000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.2mil	2000000	9.625000	10.270000
+/home/jeffrey/Projects/R/optimized/R-3.2.2/bin/Rscript	SKEW.3mil	3000000	16.723000	19.658000
+C-Dense-Hash	SKEW.1mil	1000000	0.100783	0.104548
+C-Dense-Hash	SKEW.2mil	2000000	0.201562	0.210308
+C-Dense-Hash	SKEW.3mil	3000000	0.303559	0.317492
+C-Dense-Hash	SKEW.4mil	4000000	0.398942	0.420182
+C-Dense-Hash	SKEW.5mil	5000000	0.504056	0.523536
+C-Dense-Hash	SKEW.6mil	6000000	0.600374	0.629478
+C-Dense-Hash	SKEW.7mil	7000000	0.699094	0.733815
+C-Dense-Hash	SKEW.8mil	8000000	0.799279	0.841392
+C-Dense-Hash	DISTINCT.1mil	1000000	0.100518	0.104173
+C-Dense-Hash	DISTINCT.2mil	2000000	0.200905	0.209276
+C-Dense-Hash	DISTINCT.3mil	3000000	0.300872	0.313624
+C-Dense-Hash	DISTINCT.4mil	4000000	0.400306	0.41904
+C-Dense-Hash	DISTINCT.5mil	5000000	0.500369	0.523613
+C-Dense-Hash	DISTINCT.6mil	6000000	0.629256	0.916691
+C-Dense-Hash	DISTINCT.7mil	7000000	0.774319	1.06987
+C-Dense-Hash	DISTINCT.8mil	8000000	0.921413	1.22909
+C-Dense-Hash	SKEW.1mil	1000000	0.101495	0.104815
+C-Dense-Hash	SKEW.2mil	2000000	0.201204	0.209699
+C-Dense-Hash	SKEW.3mil	3000000	0.300357	0.313476
+C-Dense-Hash	SKEW.4mil	4000000	0.400601	0.418117
+C-Dense-Hash	SKEW.5mil	5000000	0.499243	0.52362
+C-Dense-Hash	SKEW.6mil	6000000	0.598573	0.628251
+C-Dense-Hash	SKEW.7mil	7000000	0.698492	0.731267
+C-Dense-Hash	SKEW.8mil	8000000	0.798129	0.837045
+C-Dense-Hash	DISTINCT.1mil	1000000	0.101243	0.104423
+C-Dense-Hash	DISTINCT.2mil	2000000	0.200244	0.209524
+C-Dense-Hash	DISTINCT.3mil	3000000	0.300645	0.313184
+C-Dense-Hash	DISTINCT.4mil	4000000	0.400048	0.418859
+C-Dense-Hash	DISTINCT.5mil	5000000	0.498951	0.524763
+C-Dense-Hash	DISTINCT.6mil	6000000	0.629491	0.916009
+C-Dense-Hash	DISTINCT.7mil	7000000	0.774113	1.06933
+C-Dense-Hash	DISTINCT.8mil	8000000	0.92315	1.22386
+C-Dense-Hash	SKEW.1mil	1000000	0.101033	0.105118
+C-Dense-Hash	SKEW.2mil	2000000	0.200978	0.20964
+C-Dense-Hash	SKEW.3mil	3000000	0.302013	0.316377
+C-Dense-Hash	SKEW.4mil	4000000	0.400924	0.417926
+C-Dense-Hash	SKEW.5mil	5000000	0.507269	0.536609
+C-Dense-Hash	SKEW.6mil	6000000	0.619214	0.631459
+C-Dense-Hash	SKEW.7mil	7000000	0.705862	0.740618
+C-Dense-Hash	SKEW.8mil	8000000	0.80616	0.84223
+C-Dense-Hash	DISTINCT.1mil	1000000	0.10108	0.104849
+C-Dense-Hash	DISTINCT.2mil	2000000	0.200948	0.210745
+C-Dense-Hash	DISTINCT.3mil	3000000	0.300617	0.314837
+C-Dense-Hash	DISTINCT.4mil	4000000	0.399185	0.418711
+C-Dense-Hash	DISTINCT.5mil	5000000	0.500029	0.51501
+C-Dense-Hash	DISTINCT.6mil	6000000	0.627193	0.90919
+C-Dense-Hash	DISTINCT.7mil	7000000	0.779173	1.07153
+C-Dense-Hash	DISTINCT.8mil	8000000	0.921554	1.22255

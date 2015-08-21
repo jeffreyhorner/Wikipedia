@@ -16,10 +16,10 @@ d$Program <- sub('.*(R-Array-Hash).*','\\1',d$Program)
 d$Program <- sub('^C$','C-Array-Hash',d$Program)
 d$Program <- sub('^python$','Python-Dict',d$Program)
 
-prog_color <- scales::hue_pal()(4)
-names(prog_color) <- c('C-Array-Hash','Python-Dict','R-Array-Hash','R-3.2.2')
+prog_color <- scales::hue_pal()(5)
+names(prog_color) <- c('C-Array-Hash','Python-Dict','C-Dense-Hash','R-Array-Hash','R-3.2.2')
 
-prog_sub <- c('C-Array-Hash','Python-Dict')
+prog_sub <- c('C-Array-Hash','Python-Dict','C-Dense-Hash')
 py_c_dist <- 
   ggplot(
     d %>% filter(filetype=='DISTINCT',Program %in% prog_sub),
