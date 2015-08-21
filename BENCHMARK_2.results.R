@@ -38,6 +38,61 @@ png(filename='C_Python_Distinct.png',width=600,height=300)
 print(py_c_dist)
 dev.off()
 
+py_c_skew <- 
+  ggplot(
+    d %>% filter(filetype=='SKEW',Program %in% prog_sub),
+    aes(x=lines,y=time)
+  ) +
+	geom_line(aes(colour=Program)) +
+	geom_point(aes(colour=Program)) + 
+	labs(x='',y='',title='SKEW') +
+	theme(
+	    axis.text = element_text(colour = "black")
+	) +
+  scale_color_manual(values=prog_color) +
+  facet_grid (. ~ time_type)
+
+png(filename='C_Python_Skew.png',width=600,height=300)
+print(py_c_skew)
+dev.off()
+
+prog_sub <- c('C-Array-Hash','C-Dense-Hash')
+c_dist <- 
+  ggplot(
+    d %>% filter(filetype=='DISTINCT',Program %in% prog_sub),
+    aes(x=lines,y=time)
+  ) +
+	geom_line(aes(colour=Program)) +
+	geom_point(aes(colour=Program)) + 
+	labs(x='',y='',title='DISTINCT') +
+	theme(
+	    axis.text = element_text(colour = "black")
+	) +
+  scale_color_manual(values=prog_color) +
+  facet_grid (. ~ time_type)
+
+png(filename='C_Distinct.png',width=600,height=300)
+print(c_dist)
+dev.off()
+
+c_skew <- 
+  ggplot(
+    d %>% filter(filetype=='SKEW',Program %in% prog_sub),
+    aes(x=lines,y=time)
+  ) +
+	geom_line(aes(colour=Program)) +
+	geom_point(aes(colour=Program)) + 
+	labs(x='',y='',title='SKEW') +
+	theme(
+	    axis.text = element_text(colour = "black")
+	) +
+  scale_color_manual(values=prog_color) +
+  facet_grid (. ~ time_type)
+
+png(filename='C_Skew.png',width=600,height=300)
+print(c_skew)
+dev.off()
+
 all_dist <- 
   ggplot(
     d %>% filter(filetype=='DISTINCT'),
