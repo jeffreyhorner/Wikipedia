@@ -7,7 +7,7 @@ CFLAGS=-Wall -O3
 #CFLAGS=-fno-omit-frame-pointer -g -Wall -pedantic -mtune=native
 
 CXX=g++
-CXXFLAGS= -std=c++11 -ggdb3 -Wall -I/usr/local/include
+CXXFLAGS= -std=c++11 -O3 -Wall -I/usr/local/include
 
 PROGRAMS=only_ascii mean_strlen orderfreq construct_search timeread test_ffr multiple_8 construct_search_cpp
 OBJS=only_ascii.o mean_strlen.o orderfreq.o fast_file_reader.o multiple_8.o construct_search_cpp.o

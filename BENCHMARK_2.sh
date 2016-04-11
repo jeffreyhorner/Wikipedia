@@ -34,13 +34,14 @@ rm -f $RESULTS error.log
 
 for run in $RUNS; do
 for dataset in ${DATASETS[*]}; do
-./construct_search $dataset >>$RESULTS
-./construct_search_cpp $dataset >>$RESULTS
-./construct_search.py $dataset >>$RESULTS
-for progname in ${ALLR[*]}; do
-    $progname $OPTS construct_search.R $dataset $progname \
-      1>>$RESULTS 2>>error.log
-    echo '-----------------------' >> error.log
-done
+#./construct_search $dataset >>$RESULTS
+#./construct_search_cpp $dataset >>$RESULTS
+#./construct_search.py $dataset >>$RESULTS
+./construct_search.jl $dataset >>$RESULTS
+#for progname in ${ALLR[*]}; do
+#    $progname $OPTS construct_search.R $dataset $progname \
+#      1>>$RESULTS 2>>error.log
+#    echo '-----------------------' >> error.log
+#done
 done
 done

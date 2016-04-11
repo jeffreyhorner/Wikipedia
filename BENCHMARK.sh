@@ -8,9 +8,12 @@ ALLR=(
 DATASETS=(
   SKEW.1mil
   DISTINCT.500thou
+  DISTINCT.1mil
 )
-RUNS=`seq 1 10`
-HASHSIZES=`Rscript -e 'cat(2^(10:19),"\n")'`
+#RUNS=`seq 1 10`
+RUNS=1
+#HASHSIZES=`Rscript -e 'cat(2^(10:19),"\n")'`
+HASHSIZES=1024
 
 OPTS='--vanilla --no-save'
 RESULTS='results.csv'
